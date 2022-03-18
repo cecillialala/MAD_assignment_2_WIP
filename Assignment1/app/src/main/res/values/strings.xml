@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Molotov</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="rating">0.0</string>
+
+    <string name="exitBtn">Exit</string>
+    <string name="saveBtn">Save</string>
+    <string name="rateBtn">Rate</string>
+    <string name="backBtn">Back</string>
+
+    <string name="InstructionsTv">Instructions:</string>
+    <string name="IngredientsTv">Ingredients:</string>
+    <string name="userRatingTv">User Rating:</string>
+
+
+
+</resources>

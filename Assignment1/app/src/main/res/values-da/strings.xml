@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Molotov</string>
+    <string name="name">navn</string>
+    <string name="category">kategori</string>
+    <string name="rating">bedømmelse</string>
+
+    <string name="exitBtn">Slut</string>
+    <string name="saveBtn">Gem</string>
+    <string name="backBtn">Tilbage</string>
+
+    <string name="InstructionsTv">Instruktioner:</string>
+    <string name="userRatingTv">Bruger bedømmelser:</string>
+    <string name="IngredientsTv">Ingredientser:</string>
+    <string name="rateBtn">Bedøm</string>
+</resources>
