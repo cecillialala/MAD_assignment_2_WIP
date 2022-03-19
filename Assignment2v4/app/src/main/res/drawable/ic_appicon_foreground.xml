@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <group android:scaleX="0.14194286"
+      android:scaleY="0.14194286"
+      android:translateX="29.16"
+      android:translateY="41.89882">
+    <group android:translateY="141.67969">
+      <path android:pathData="M64,-0L55,-0L55,-69.84375Q55,-71.328125,55.984375,-78.515625L37.515625,-11L35.484375,-11L17.015625,-78.515625Q18,-71.25,18,-69.84375L18,-0L9,-0L9,-110L18,-110L36.21875,-38.921875Q36.359375,-38.359375,36.5,-35.78125Q36.5,-36.828125,36.78125,-38.921875L55,-110L64,-110L64,-0Z"
+          android:fillColor="#E3C85C"/>
+      <path android:pathData="M120,-8.15625Q119.5,0,111.84375,0L89.15625,0Q81.5,0,81,-8.15625L81,-59.84375Q81.5,-68,89.15625,-68L111.84375,-68Q119.5,-68,120,-59.84375L120,-8.15625ZM111,-8L111,-60L90,-60L90,-8L111,-8Z"
+          android:fillColor="#E3C85C"/>
+      <path android:pathData="M145,0L136,0L136,-110L145,-110L145,0Z"
+          android:fillColor="#E3C85C"/>
+      <path android:pathData="M200,-8.15625Q199.5,0,191.84375,0L169.15625,0Q161.5,0,161,-8.15625L161,-59.84375Q161.5,-68,169.15625,-68L191.84375,-68Q199.5,-68,200,-59.84375L200,-8.15625ZM191,-8L191,-60L170,-60L170,-8L191,-8Z"
+          android:fillColor="#E3C85C"/>
+      <path android:pathData="M240,0L227.15625,0Q219.125,-0.25,219,-8.15625L219,-60L211,-60L211,-68L219,-68L219,-90L228,-90L228,-68L240,-68L240,-60L228,-60L228,-8L240,-8L240,0Z"
+          android:fillColor="#E3C85C"/>
+      <path android:pathData="M291,-8.15625Q290.5,0,282.84375,0L260.15625,0Q252.5,0,252,-8.15625L252,-59.84375Q252.5,-68,260.15625,-68L282.84375,-68Q290.5,-68,291,-59.84375L291,-8.15625ZM282,-8L282,-60L261,-60L261,-8L282,-8Z"
+          android:fillColor="#E3C85C"/>
+      <path android:pathData="M346,-68L329,0L320,0L303,-68L313,-68L324.5,-14.78125L337,-68L346,-68Z"
+          android:fillColor="#E3C85C"/>
+    </group>
+  </group>
+</vector>

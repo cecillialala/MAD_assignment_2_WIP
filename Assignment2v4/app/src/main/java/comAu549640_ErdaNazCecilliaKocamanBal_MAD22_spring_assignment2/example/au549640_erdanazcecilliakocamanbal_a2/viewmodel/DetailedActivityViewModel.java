@@ -1,0 +1,4 @@
+package comAu549640_ErdaNazCecilliaKocamanBal_MAD22_spring_assignment2.example.au549640_erdanazcecilliakocamanbal_a2.viewmodel;
+
+public class DetailedActivityViewModel {
+}
