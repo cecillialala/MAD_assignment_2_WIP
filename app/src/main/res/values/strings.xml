@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">au549640</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="rating">0.0</string>
+
+    <string name="exitBtn">Exit</string>
+    <string name="saveBtn">Save</string>
+    <string name="rateBtn">Rate</string>
+    <string name="backBtn">Back</string>
+    <string name="searchBtnText">Search</string>
+
+    <string name="InstructionsTv">Instructions:</string>
+    <string name="IngredientsTv">Ingredients:</string>
+    <string name="userRatingTv">User Rating:</string>
+    <string name="searchTV">Search And Add</string>
+    <string name="addBtn">Add</string>
+    <string name="textBoxSearh">Click in list to add to your library</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="addedToLibrary">Drink added to library!</string>
+    <string name="deletedDrinkFromlibrary">Drink deleted!</string>
+
+
+
+    <string name="drinkNotificationMixTime">It\'s time to mix!</string>
+    <string name="drinkNotificationTry">Try a nice </string>
+    <string name="drinkNotificationSuch"> such as </string>
+    <string name="drinkNotificationPrettyGood">It might be pretty good! You tell us!</string>
+    <string name="drinkNotificationRandomDefault">Try a random drink and give it a rating!</string>
+    <string name="drinkNotificationRating"> and give it a rating!</string>
+    <string name="drinkNotificationADD">Add some drinks to your collection NOW!</string>
+    <string name="drinkNotificationDefaultGitGud">It might be good!</string>
+   
+</resources>

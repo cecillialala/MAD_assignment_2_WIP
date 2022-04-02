@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleSize">18dp</dimen>
+    <dimen name="categorySize">14dp</dimen>
+    <dimen name="ratingSize">28dp</dimen>
+    <dimen name="measureIngredientSize">12dp</dimen>
+    <dimen name="titleBIG">24dp</dimen>
+</resources>

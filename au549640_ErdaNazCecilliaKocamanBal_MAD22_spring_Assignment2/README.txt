@@ -1,2 +1,0 @@
-I can't zip compress for some reason so there is a middle folder in the zip file that comes from uploading my code to git and then redownloading it.
-I doesn't go against the formalia requriements but just a heads up regardless.

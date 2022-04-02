@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Molotov</string>
+    <string name="name">navn</string>
+    <string name="category">kategori</string>
+    <string name="rating">bedømmelse</string>
+
+    <string name="exitBtn">Slut</string>
+    <string name="saveBtn">Gem</string>
+    <string name="backBtn">Tilbage</string>
+
+    <string name="InstructionsTv">Instruktioner:</string>
+    <string name="userRatingTv">Bruger bedømmelser:</string>
+    <string name="IngredientsTv">Ingredientser:</string>
+    <string name="rateBtn">Bedøm</string>
+    <string name="searchBtnText">Søg</string>
+    <string name="searchTV">Søg og tilføj</string>
+    <string name="addBtn">Tilføj</string>
+    <string name="textBoxSearh">Klik i listen for at tilføje til dit katalog</string>
+    <string name="deleteBtn">Slet</string>
+    <string name="drinkNotificationMixTime">Det er mix tid!</string>
+    <string name="drinkNotificationTry">Prøv en fed</string>
+    <string name="drinkNotificationSuch">som f.eks.</string>
+    <string name="drinkNotificationPrettyGood">Det kunne være god! Hvad synes du?</string>
+    <string name="drinkNotificationRandomDefault">Prøv en tilføldig drink og anmeld den!</string>
+    <string name="drinkNotificationRating">og giv den en anmendelse!</string>
+    <string name="drinkNotificationADD">Tilføj nogle drinks til din samling NU!</string>
+    <string name="addedToLibrary">Drink tilføjet til samling!</string>
+    <string name="deletedDrinkFromlibrary">Drink slettet!</string>
+    <string name="drinkNotificationDefaultGitGud">Den kunne være god!</string>
+</resources>
